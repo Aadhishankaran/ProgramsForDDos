@@ -1,5 +1,5 @@
 # ----------------------------------------------------------------------------------------------
-# Saphyra - iDDoS Priv8 Tool
+# Saphyra - iDDoS Priv8 Too
 #
 # The iDDoS Protocol is the most massive type of attack
 # This tool can tangodown nasa and more gov websites
